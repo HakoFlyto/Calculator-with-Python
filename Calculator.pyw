@@ -1,4 +1,4 @@
-#Made By Hakoflyto
+# Made By Hakoflyto
 # --------------------------------------------------
 # Tkinter kullanarak basit bir hesap makinesi oluşturma
 # Creating a simple calculator using Tkinter
